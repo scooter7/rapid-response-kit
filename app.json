@@ -1,6 +1,6 @@
 {
   "name": "Magellan SMS Broadcast System",
-  "description": "Magellan Education's SMS Broadcast App enables you to send text messages to many prospective and/or current community members simulateneously.",
+  "description": "Magellan Education's SMS Broadcast App",
   "logo": "https://static1.squarespace.com/static/58060818e3df2851adae8db1/t/580aa70ec534a588ce442422/1481343058557/?format=1500w",
   "repository": "https://github.com/scooter7/rapid-response-kit",
   "keywords": ["twilio", "python", "flask"],
