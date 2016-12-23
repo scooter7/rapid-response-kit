@@ -1,8 +1,8 @@
 {
-  "name": "Twilio.org Rapid Response Kit",
-  "description": "The Twilio-powered Rapid Response Kit gives you the elements to build and deploy communications apps quickly and easily.",
-  "logo": "https://www.twilio.com/bundles/marketing/img/logos/wordmark-red.svg",
-  "repository": "https://github.com/Twilio-org/rapid-response-kit",
+  "name": "Magellan SMS Broadcast System",
+  "description": "Magellan Education's SMS Broadcast App enables you to send text messages to many prospective and/or current community members simulateneously.",
+  "logo": "https://static1.squarespace.com/static/58060818e3df2851adae8db1/t/580aa70ec534a588ce442422/1481343058557/?format=1500w",
+  "repository": "https://github.com/scooter7/rapid-response-kit",
   "keywords": ["twilio", "python", "flask"],
   "env": {
 	"SECRET_KEY": {
@@ -10,11 +10,11 @@
       "generator": "secret"
     },
     "TWILIO_ACCOUNT_SID": {
-	    "description": "Your Twilio account id",
+	    "description": "ACf994ec977a3c1f93b5b53a65b15e1a85",
       "required": true
     },
     "TWILIO_AUTH_TOKEN": {
-      "description": "Your Twilio authentication token",
+      "description": "03db05b7e54fecb989e871c4ed97cb2d",
       "required": true
     }
   }
